@@ -5,6 +5,8 @@ An AWS Database Migration Service (AWS DMS) task is where all the work happens. 
 Follow the below steps to create Database migration tasks.
 
 1. In the left navigation pane, choose Database migration tasks and click on the Create task.
+
+
 ![](./pictures/44.png)
 
 2. In the Task Configuration, provide the below values.
