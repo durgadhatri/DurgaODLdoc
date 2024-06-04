@@ -2,45 +2,26 @@
     {
       "Name": "Data Migration Service",
       "Language": "English",
-      "BaseURL": "https://github.com/durgadhatri/DurgaODLdoc",
+      "BaseURL": "https://github.com/durgadhatri/DurgaODLdoc/blob/main/rds_and_ec2/",
       "Files": [
         {
-          "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/1page.md",
+          "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/rds_and_ec2/rdspage1.md",
           "Order": 1
         },
 
         {
-          "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/2page.md",
+          "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/rds_and_ec2/rdspage2.md",
           "Order": 2
         },
 
         {
-          "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/3page.md",
+          "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/rds_and_ec2/rdspage3.md",
           "Order": 3
         },
 
         {
-          "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/4page.md",
+          "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/rds_and_ec2/rdspage4.md",
           "Order": 4
-        },
-
-        {
-          "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/5page.md",
-          "Order": 5
-        },
-        {
-          "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/6page.md",
-          "Order": 6
-        },   
-
-        {
-          "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/7page.md",
-          "Order": 7
-        },
-
-        {
-          "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/8page.md",
-          "Order": 8
         }
 
       ]
