@@ -1,5 +1,4 @@
-# Connecting an AWS RDS DB Instance through EC2
-
+# CREATING EC2 AND RDS
 ## Overview
 #### Lab Duration: 1 Hour
 
