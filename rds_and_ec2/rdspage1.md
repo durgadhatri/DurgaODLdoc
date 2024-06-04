@@ -1,4 +1,4 @@
-# Connecting an AWS RDS DB Instance through EC2
+# Creating EC2 and RDS
 
 Follow the steps below to get started with the lab.
 
