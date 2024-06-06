@@ -53,4 +53,6 @@ Note: You can move forward with the further exercises as you wait for the Status
 
 ![](./images/seethedashboard.png)
 
+<validation step="d0e665af-7b18-4087-8ea5-ebdbe7ed78fc" />
+
 In this exercise, you have successfully created an EC2 instance.
