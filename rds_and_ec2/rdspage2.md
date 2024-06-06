@@ -18,5 +18,6 @@ In this hands-on lab, you will be learning the following:
 
 ## Hands-on Lab
 Exercise 1: Creating an EC2 Instance
+
 Exercise 2: Creating an RDS Instance
 
