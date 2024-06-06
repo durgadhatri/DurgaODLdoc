@@ -3,7 +3,7 @@
 Follow the steps below to get started with the lab.
 
 1. Sign in to the AWS Management Console by copying the Sign-in link, Username, and Password provided below.
-   - Sign-in Link:
+   - Sign-in Link: 
    - IAM Username:
    - Password:
 
