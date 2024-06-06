@@ -50,4 +50,6 @@
 
 ![](./images/endpointport.png)
 
-***
+<validation step="60e7f64f-7c66-4ad4-ad8d-c62e8a6ea34d" />
+
+In this Exercise you have successfully created a RDS Database
