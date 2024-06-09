@@ -25,7 +25,7 @@
           "UnlockingRules": [
           {
             "UnlockDependency": "Questions",
-            "DependentQuestions": [ "./questions/Page1/question-01.md", "./questions/Page1/question-02.md" ],
+            "DependentQuestions": [ "./questions/Page4/question-01.md", "./questions/Page1/question-02.md" ],
             "UnlockCriteria": "AnsweredCorrectly"
           }
         ]
