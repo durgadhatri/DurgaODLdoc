@@ -21,7 +21,12 @@
 
         {
           "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/rds_and_ec2/rdspage3inline.md",
-          "Order": 4,
+          "Order": 4
+        },
+
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/rds_and_ec2/rdspage4.md",
+          "Order": 5,
           "UnlockingRules": [
           {
             "UnlockDependency": "Questions",
@@ -32,11 +37,6 @@
             "UnlockCriteria": "AnsweredCorrectly"
           }
         ]
-        },
-
-        {
-          "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/rds_and_ec2/rdspage4.md",
-          "Order": 5
         }
 
       ]
