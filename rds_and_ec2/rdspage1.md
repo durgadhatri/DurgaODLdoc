@@ -3,9 +3,9 @@
 Follow the steps below to get started with the lab.
 
 1. Sign in to the AWS Management Console by copying the Sign-in link, Username, and Password provided below.
-   - **Sign-in Link**:  <inject key="Url" enableCopy="true" /> 
-   - **IAM Username**:  <inject key="UserName" enableCopy="true" /> 
-   - **Password**:  <inject key="passwd" enableCopy="true" /> 
+   - **Sign-in Link**:  <value ="https://427798623174.signin.aws.amazon.com/console/" enableCopy="true" /> 
+   - **IAM Username**:  <value ="odl_user_1369006" enableCopy="true" /> 
+   - **Password**:  <value ="rxkg24XAG*rZ" enableCopy="true" /> 
 
    ![](./images/aws.png)
 Alternatively, you can also find these values on the CloudLabs Environment tab.
