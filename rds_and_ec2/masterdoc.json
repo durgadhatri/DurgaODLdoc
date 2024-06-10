@@ -27,16 +27,6 @@
         {
           "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/rds_and_ec2/rdspage4.md",
           "Order": 5,
-          "UnlockingRules": [
-          {
-            "UnlockDependency": "Questions",
-            "DependentQuestions": [ 
-                "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/rds_and_ec2/questions/Page4/question-01.md", 
-                "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/rds_and_ec2/questions/Page4/question-02.md"
-            ],
-            "UnlockCriteria": "AnsweredCorrectly"
-          }
-        ]
         }
 
       ]
