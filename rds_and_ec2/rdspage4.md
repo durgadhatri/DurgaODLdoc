@@ -2,13 +2,13 @@
 
 #### In this task, you will create an Amazon RDS database in the same VPC as your EC2 instance to connect with it.
 
-1. Inn the unified bar, type **RDS** and select the RDS service. You will be navigated to RDS dashboard.
+1. In the unified bar, type **RDS** and select the RDS service. You will be navigated to RDS dashboard.
 
     ![](./images/img01.png)
 
 2. Click on **Create database** to start creating your database.
 
- ![](./images/img02.png)
+   ![](./images/img02.png)
 
 3. Select database creation method to **Easy create**.  Select Free tier in Templates field.
 
