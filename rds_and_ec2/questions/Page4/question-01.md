@@ -2,25 +2,25 @@
 Question Type : Single Choice
 
 ## Question
-What sensitivity labels are used by the military contractor to tag content?:
+What does EC2 stand for in Amazon EC2?:
 
 ## Options
-Option 1: Top Secret, Secret, Unclassified
+Option 1: Efficient Compute Cloud
 
-Option 2: Confidential, Unclassified, Sensitive
+Option 2: Elastic Cloud Computing
 
-Option 3: Secret, Confidential, Unclassified
+Option 3: Enhanced Cloud Computing
 
-Option 4: Private, Public, Unclassified
+Option 4: Elastic Compute Cloud
 
 ## Answers
-Option 3 : 1
+Option 4 : 1
 
 ## Correct Answer Feedback
-Option 3 is correct answer
+Option 4 is the correct answer
 
 ## Incorrect Answer Feedback
-Selected ## Options is not correct Option 3 is correct answer
+Selected ## Options is not correct Option 4 is correct answer
 
 ## Tags
 tag1
