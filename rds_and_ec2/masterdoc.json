@@ -1,6 +1,6 @@
 [
     {
-      "Name": "Data Migration Ser",
+      "Name": "Relational Database service",
       "Language": "English",
       "BaseURL": "https://github.com/durgadhatri/DurgaODLdoc/blob/main/rds_and_ec2/",
       "Files": [
@@ -25,7 +25,10 @@
           "UnlockingRules": [
           {
             "UnlockDependency": "Questions",
-            "DependentQuestions": [ "./questions/Page4/question-01.md", "./questions/Page4/question-02.md" ],
+            "DependentQuestions": [ 
+                "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/rds_and_ec2/questions/Page4/question-01.md", 
+                "https://raw.githubusercontent.com/durgadhatri/DurgaODLdoc/main/rds_and_ec2/questions/Page4/question-02.md"
+            ],
             "UnlockCriteria": "AnsweredCorrectly"
           }
         ]
