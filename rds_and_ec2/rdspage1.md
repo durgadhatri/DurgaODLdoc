@@ -7,7 +7,7 @@ Follow the steps below to get started with the lab.
    - **IAM Username**:  <inject key="UserName" enableCopy="true" /> 
    - **Password**:  <inject key="passwd" enableCopy="true" /> 
 
-  ![](./images/aws.png)
+   ![](./images/aws.png)
 
 Alternatively, you can also find these values on the CloudLabs Environment tab.
 
