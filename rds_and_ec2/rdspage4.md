@@ -2,7 +2,7 @@
 
 #### In this task, you will create an Amazon RDS database in the same VPC as your EC2 instance to connect with it.
 
-1. In the unified bar, type **RDS** and select the RDS service. You will be navigated to RDS dashboard.
+1. In the unified search bar, type **RDS** and select the RDS service. You will be navigated to RDS dashboard.
 
     ![](./images/img01.png)
 
@@ -44,7 +44,7 @@
 
 9. You can view the database which is being created. Let the status of the Database be **Available** only then further steps are possible
 
-    ![](./images/img09.png)
+    ![](./images/img11.png)
 
 10. Click on the database which is created and copy the Endpoint and port number under Connectivity and security section on a notepad. 
 
