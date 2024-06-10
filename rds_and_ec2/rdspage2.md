@@ -10,11 +10,11 @@ In addition to the security in your database package, you can help control who c
 ## Key Learnings
 
 In this hands-on lab, you will be learning the following:
-- Understanding of Amazon RDS
+- Understanding of Amazon RDS.
 - Creating and configuring EC2 instances.
-- Creating and configuring the RDS DB instance
-- Connecting and configuring the EC2 instance with RDS DB instance
-- Familiarity with MySQL databases and their command line clients
+- Creating and configuring the RDS DB instance.
+- Connecting and configuring the EC2 instance with RDS DB instance.
+- Familiarity with MySQL databases and their command line clients.
 
 ## Hands-on Lab
 Exercise 1: Creating an EC2 Instance
