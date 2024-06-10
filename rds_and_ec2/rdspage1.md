@@ -1,4 +1,4 @@
-# Creating EC2 and RDS
+# Creating an Amazon EC2 Instance and RDS instance
 
 Follow the steps below to get started with the lab.
 
@@ -8,10 +8,8 @@ Follow the steps below to get started with the lab.
    - **Password**:  <inject key="passwd" enableCopy="true" /> 
 
    ![](./images/aws.png)
-
 Alternatively, you can also find these values on the CloudLabs Environment tab.
-
-  ![](./images/userandpass.png)
+   ![](./images/userandpass.png)
 
 2. After signing in to the AWS Management Console, choose the region US-EAST-1 (N. Virginia) from the dropdown menu.
 
