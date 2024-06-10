@@ -2,25 +2,25 @@
 Question Type : Single Choice
 
 ## Question
-What sensitivity labels are used by the military contractor to tag content?:
+Which of the following can be used to securely connect to an Amazon EC2 instance?:
 
 ## Options
-Option 1: Top Secret, Secret, Unclassified
+Option 1: SMTP
 
-Option 2: Confidential, Unclassified, Sensitive
+Option 2: SSH
 
-Option 3: Secret, Confidential, Unclassified
+Option 3: HTTP
 
-Option 4: Private, Public, Unclassified
+Option 4: FTP
 
 ## Answers
-Option 3 : 1
+Option 2 : 1
 
 ## Correct Answer Feedback
-Option 3 is correct answer
+Option 2 is correct answer
 
 ## Incorrect Answer Feedback
-Selected ## Options is not correct Option 3 is correct answer
+Selected ## Options is not correct Option 2 is correct answer
 
 ## Tags
 tag1
