@@ -2,25 +2,25 @@
 Question Type : Single Choice
 
 ## Question
-What does EC2 stand for in Amazon EC2?:
+What’s the native type of this resource?:
 
 ## Options
-Option 1: Efficient Compute Cloud
+Option 1: Kubernetes Deployment
+                                                    
+Option 2: Kubernetes Pod
 
-Option 2: Elastic Cloud Computing
+Option 3: Kubernetes Container
 
-Option 3: Enhanced Cloud Computing
-
-Option 4: Elastic Compute Cloud
+Option 4: Kubernetes Services
 
 ## Answers
-Option 4 : 1
+Option 1 : 1
 
 ## Correct Answer Feedback
-Option 4 is the correct answer
+Option 1 is the correct answer
 
 ## Incorrect Answer Feedback
-Selected ## Options is not correct Option 4 is correct answer
+Selected ## Options is not correct, Option 1 is correct answer
 
 ## Tags
 tag1
