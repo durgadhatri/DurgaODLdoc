@@ -6,9 +6,10 @@ Follow the steps below to get started with the lab.
 
 IAM Username: 
 ```
+testing github
 
-testing github 
 <inject key="userName" enableCopy="false" />
+
 <inject key="Password" enableCopy="false" />
 
 ```
