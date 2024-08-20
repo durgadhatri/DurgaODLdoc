@@ -6,9 +6,16 @@ Follow the steps below to get started with the lab.
 
    - IAM Username: <inject key="userName" enableCopy="true" />
    - Password: <inject key="Password" enableCopy="false" />
+
      
    ![](./images/userandpass.png)
 
 2. After signing in to the AWS Management Console, choose the region US-EAST-1 (N. Virginia) from the dropdown menu.
 
    ![](./images/console.png)
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
