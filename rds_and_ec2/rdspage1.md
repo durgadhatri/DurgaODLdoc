@@ -4,8 +4,8 @@ Follow the steps below to get started with the lab.
 
 1. Login to AWS console with the link (https://console.aws.amazon.com/console/home) and by using the environment creds you can login to the aws console.
 
-   - IAM Username: <inject key="userName" value="StaticValue1" enableCopy="true" />
-   - Password: <inject key="Password" value="StaticValue2" enableCopy="false" />
+   - IAM Username: <inject key="userName" enableCopy="true" />
+   - Password: <inject key="Password" enableCopy="false" />
      
    ![](./images/userandpass.png)
 
