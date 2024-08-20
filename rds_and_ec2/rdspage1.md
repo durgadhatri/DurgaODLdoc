@@ -4,7 +4,13 @@ Follow the steps below to get started with the lab.
 
 1. Login to AWS console with the link (https://console.aws.amazon.com/console/home) and by using the environment creds you can login to the aws console.
 
-   - IAM Username: <inject key="userName" enableCopy="true" />
+IAM Username: 
+
+``` 
+<inject key="userName" enableCopy="false" />
+```
+
+
    - Password: <inject key="Password" enableCopy="false" />
 
      
@@ -14,8 +20,7 @@ Follow the steps below to get started with the lab.
 
    ![](./images/console.png)
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+
+      
+      
+
