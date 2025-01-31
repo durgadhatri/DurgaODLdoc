@@ -9,6 +9,7 @@ IAM Username: <inject key="ODLUser" default value="odluser123-azure-connector" e
      
    ![](./images/userandpass.png)
 
+
 2. After signing in to the AWS Management Console, choose the region US-EAST-1 (N. Virginia) from the dropdown menu.
 
    ![](./images/console.png)
