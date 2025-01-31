@@ -4,9 +4,8 @@ Follow the steps below to get started with the lab.
 
 1. Login to AWS console with the link (https://console.aws.amazon.com/console/home) and by using the environment creds you can login to the aws console.
 
-IAM Username: <inject key="ODLUser" default value="odluser123-azure-connector" enableCopy="true" />
-
-     
+IAM Username: **odluser-<inject key="DeploymentID" default value="12345" enableCopy="true" />**
+   
    ![](./images/userandpass.png)
 
 
