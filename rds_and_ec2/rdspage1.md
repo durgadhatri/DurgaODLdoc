@@ -4,9 +4,9 @@ Follow the steps below to get started with the lab.
 
 1. Login to AWS console with the link (https://console.aws.amazon.com/console/home) and by using the environment creds you can login to the aws console.
 
-IAM Username: **odluser-<inject key="DeploymentID" default value="12345" enableCopy="true" />**
+IAM Username: The default value 12345 doesnot come.  **odluser-<inject key="DID" default value="12345" enableCopy="true" />** 
 
-IAM Username (test): **<inject key="DeploymentID" value="__STATICVALUE1__" key="DeploymentID" value="__STATICVALUE2__"  enableCopy="true" />**
+IAM Username (test): Here static value comes in between  **<inject key="DID" value="__STATICVALUE1__" key="DID" value="__STATICVALUE2__"  enableCopy="true" />**
    
    ![](./images/userandpass.png)
 
